@@ -17,6 +17,9 @@ This is a simple and efficient Todo app built using React, where tasks are store
 - **Tailwind CSS**: For modern and responsive styling.
 - **Local Storage**: For saving data persistently in the browser.
 
+## Screenshot
+![Todo](public/screenshot.png)
+
 ## Installation
 
 1. Clone the repository:
